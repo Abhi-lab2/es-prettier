@@ -1,5 +1,5 @@
 {
-  "name": "es-prettier",
+  "name": "es-prettier-code",
   "version": "1.0.0",
   "description": "an npm library for js code pretty",
   "main": "index.js",

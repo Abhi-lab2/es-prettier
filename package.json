@@ -1,6 +1,6 @@
 {
   "name": "es-prettier-code",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "an npm library for js code pretty",
   "main": "index.js",
   "bin": {
@@ -16,7 +16,8 @@
   },
   "keywords": [
     "npm",
-    "prettier",
+    "es-prettier-code",
+    "prettier-code",
     "code formatter",
     "javascript"
   ],

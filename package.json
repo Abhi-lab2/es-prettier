@@ -1,0 +1,34 @@
+{
+  "name": "es-prettier",
+  "version": "1.0.0",
+  "description": "an npm library for js code pretty",
+  "main": "index.js",
+  "bin": {
+    "pretty-code": "./index.js"
+  },
+  "scripts": {
+    "test": "npm run test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhi-lab2/es-prettier.git"
+  },
+  "keywords": [
+    "npm",
+    "prettier",
+    "code formatter",
+    "javascript"
+  ],
+  "author": "abhijeet chaudhari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhi-lab2/es-prettier/issues"
+  },
+  "homepage": "https://github.com/Abhi-lab2/es-prettier#readme",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "escodegen": "^2.1.0",
+    "esprima": "^4.0.1"
+  }
+}
